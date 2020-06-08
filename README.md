@@ -1,1 +1,4 @@
 MathsforDataScience - Learning Captured
+Added a few exercises on Vector Maths
+Added .gitignore - 6/7
+Added *.pynb and *.pdf in .gitignore - 6/7
