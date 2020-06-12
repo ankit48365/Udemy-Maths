@@ -7,14 +7,14 @@
 
 %% many ways to compute the dot product
 
-v1 = [ 1 2 3 4 5  ];
+v1 = [ 1 2 3 4 1  ];
 v2 = [ 0 -4 -3 6 5 ];
 
 % method 1
 dp = sum( v1.*v2 );
 
 % method 2
-dp = dot( v1,v2 );
+kp = dot( v1,v2 );
 
 % method 3
 dp = v1*v2';
