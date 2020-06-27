@@ -7,3 +7,5 @@ Added .gitignore - 6/7
 Added *.pynb and *.pdf in .gitignore - 6/7
 
 Checking Untracked files -6/7
+
+6/27 synch
