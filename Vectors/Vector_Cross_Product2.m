@@ -2,6 +2,7 @@
 %     COURSE: Linear algebra: theory and implementation
 %    SECTION: Vectors
 %      VIDEO: Vector cross product
+% Instructor: sincxpress.com
 %
 %%
 
@@ -12,10 +13,10 @@ v2  = [  4 -3 0 ];
 % MATLAB's cross-product function
 v3a = cross( v1,v2 );
 
-% "manual" method - if you want to understand the formula, then only do this method
-%v3b = [ v1(2)*v2(3) - v1(3)*v2(2) ;
-%       v1(3)*v2(1) - v1(1)*v2(3) ;
-%      v1(1)*v2(2) - v1(2)*v2(1) ];
+% "manual" method
+v3b = [ v1(2)*v2(3) - v1(3)*v2(2) ;
+        v1(3)*v2(1) - v1(1)*v2(3) ;
+        v1(1)*v2(2) - v1(2)*v2(1) ];
 
     
 %%% draw the vectors and the plane they span
@@ -32,4 +33,4 @@ plot3([0 v3a(1)],[0 v3a(2)],[0 v3a(3)],'r--','linew',3)
 xlabel('R_1'), ylabel('R_2'), zlabel('R_3')
 axis square
 grid on, rotate3d on, hold on
-title('Normal Vector - On a Plane')
+title('')
