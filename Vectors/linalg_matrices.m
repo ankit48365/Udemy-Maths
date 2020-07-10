@@ -29,7 +29,7 @@ L = tril(S);
 A = randn(3,2);
 B = randn(4,4);
 C = [ A B ];
-
+X = [ B Z ];
 %%
 
 %%
