@@ -2,7 +2,6 @@
 %     COURSE: Linear algebra: theory and implementation
 %    SECTION: Matrix multiplication
 %      VIDEO: Standard matrix multiplication, parts 1 & 2
-% Instructor: sincxpress.com
 %
 %%
 

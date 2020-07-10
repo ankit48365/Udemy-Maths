@@ -2,7 +2,6 @@
 %     COURSE: Linear algebra: theory and implementation
 %    SECTION: Introduction to matrices
 %      VIDEO: A zoo of matrices
-% Instructor: sincxpress.com
 %
 %%
 
