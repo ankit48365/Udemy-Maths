@@ -1,3 +1,4 @@
+
 %%
 %     COURSE: Linear algebra: theory and implementation
 %    SECTION: Vectors
